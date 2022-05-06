@@ -4,12 +4,14 @@ import { routes } from './routes';
 
 const app = express();
 
+const PORT = process.env.PORT || 3333;
+
 app.use(cors());
 
 app.use(express.json());
 
 app.use(routes);
 
-app.listen(3333, () => {
-  console.log('Listening on 0.0.0.0:3333')
+app.listen(PORT, () => {
+  console.log(`Listening on 0.0.0.0:${PORT}`)
 });
