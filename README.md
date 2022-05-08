@@ -19,12 +19,15 @@ O sistema consiste em uma [aplicação web](https://github.com/emiliosanches/nlw
     - [ ] Autenticação
     - [ ] Endpoint autorizado de listagem de feedbacks
 
-* **Web (front end)**:
-  - [ ] Seleção de tema light/dark
-  - [ ] Dashboard de feedbacks recebidos:
-    - [ ] Tela de login
-    - [ ] Tela de listagem de feedbacks
+* **[Web (front end)](https://github.com/emiliosanches/nlw8-feedback-widget-mobile)**:
+  - Seleção de tema light/dark
+  - Dashboard de feedbacks recebidos:
+    - Tela de login
+    - Tela de listagem de feedbacks
 
+* **[Mobile App](https://github.com/emiliosanches/nlw8-feedback-widget-mobile)**
+  - Seleção de tema light/dark
+  - Adição de spash screen
 
 ## 🌐 Server (back end)
 
